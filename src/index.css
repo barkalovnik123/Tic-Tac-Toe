@@ -12,17 +12,3 @@ code {
     monospace;
 }
 
-.square {
-  width: 33.33%;
-  aspect-ratio: 1/1;
-  font-size: 20px;
-  border: 1px solid black;
-  background-color: lightcyan;
-  margin: 0; padding: 0;
-}
-
-.board {
-  width: 200px;
-  display: flex;
-  flex-wrap: wrap;
-}
